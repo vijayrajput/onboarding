@@ -18,7 +18,10 @@ Choose Continue.
 Automated onboarding will be started with pre-configured steps.
 ![Image](https://developers.sap.com/tutorials/cp-starter-ibpm-employeeonboarding-1-setup/_jcr_content.github-proxy.1626939075.file/startrecipe_51.png)
 
-4. Open Buiness Application Studio by clicking on Sub-Account 'trial' -> Instances and Subscriptions -> Subscrptions -> SAP Business Application Studio
+4. Click SAP Business Application Studio to launch SAP Business Application Studio.
+![Image](https://developers.sap.com/tutorials/appstudio-onboarding/_jcr_content.github-proxy.1614933779.file/BTP-Access-AppStudio-.png)
+In the application studio, choose Create Dev Space.
+![Image](https://developers.sap.com/tutorials/cp-workflow-2-create-module-cf/_jcr_content.github-proxy.1628162127.file/create-dev-space2.png)
 
 5. Create Dev Space -> Enter a name, for example, mydevspace, and make sure to select SAP Fiori kind and the Workflow Management extension. Then choose Create Dev Space again.
 ![Image](https://developers.sap.com/tutorials/cp-workflow-2-create-module-cf/_jcr_content.github-proxy.1628162127.file/mydevspace.png)
