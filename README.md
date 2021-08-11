@@ -21,3 +21,35 @@ If so, click it to open the entry field. Enter the right API endpoint depending 
 
 Right-click the .mtar file, and then select Deploy MTA Archive.
 
+From the navigation area, choose Instances and Subscriptions, and search for Workflow Management.
+
+Open your SAP Fiori launchpad, by choosing Go to Application in the Workflow Management row.
+
+In the SAP Fiori launchpad, open the Monitor Workflows (Workflow Definitions) application and select the onboard workflow definition.
+
+Choose Start New Instance.
+
+Replace the payload by adding the following code as context, then choose Start New Instance and Close.
+
+'
+{
+  "managerId": "john.edrich@sapdemo.com",
+  "buddyId": "kevin.hart@saptest.com",
+  "userId": "cgrant1",
+  "empData": {
+    "firstName": "Carla",
+    "lastName": "Grant",
+    "city": "San Mateo",
+    "country": "United States",
+    "hireDate": "2020-07-11",
+    "jobTitle": "General Manager, Industries"
+  }
+}
+
+
+Go back to the home page and open the My Inbox application.
+
+You should see the Approval task with a form, showing the equipment name and an Approve button.
+
+
+
