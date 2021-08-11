@@ -28,8 +28,12 @@ In the application studio, choose Create Dev Space.
 Wait until the dev space is created and you see the RUNNING status
 ![Image](https://developers.sap.com/tutorials/cp-workflow-2-create-module-cf/_jcr_content.github-proxy.1628162127.file/DevSpaceCreated.png)
 
-6. BAS Welcome Screen - > Clone from GIT -> https://github.com/vijayrajput/onboarding.git
+6. BAS Welcome Screen -> Click on Clone from GIT and provide following Repository link  
+```
+https://github.com/vijayrajput/onboarding.git
+```
 ![Image](https://developers.sap.com/tutorials/cp-workflow-2-create-module-cf/_jcr_content.github-proxy.1628162127.file/see-result-projects-folder.png)
+
 
 7. Right-click the mta.yaml file in your onboarding project folder, and then select Build MTA Project.
 ![Image](https://developers.sap.com/tutorials/cp-workflow-3-add-usertask-cf/_jcr_content.github-proxy.1620714027.file/build-mta.png)
